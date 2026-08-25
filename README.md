@@ -23,4 +23,5 @@ powershell
 ```php -v```
 
 1 - Abra Visual Studio Code
+
 2 - Vá guia arquivo > Abrir pasta > Cria pasta como nome AT02PW-meunome
