@@ -25,3 +25,30 @@ powershell
 1 - Abra Visual Studio Code
 
 2 - Vá guia arquivo > Abrir pasta > Cria pasta como nome AT02PW-meunome
+
+3 - Crie um arquivo com o nome index.php
+
+4 - cole o seguinte código nele
+
+```php
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <?php
+        $nome = "Erick";
+        $nomeCompleto = "Erick Eduardo Montanha";
+    ?>
+    
+        <p>O primeiro nome é <?= $nome; ?></p>
+        <p>O nome completo é <?= $nomeCompleto; ?></p>
+</body>
+</html>
+
+
+```
