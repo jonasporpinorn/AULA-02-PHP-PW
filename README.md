@@ -52,3 +52,8 @@ powershell
 
 
 ```
+5 - Abrir terminal > Novo terminal
+
+6 - Execute o seguinte comando: ``` php -S localhost:8080 ```
+
+7 - Abra o navegador na barra de endereço digite: ```localhost:8080```
